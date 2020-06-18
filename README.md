@@ -3,8 +3,8 @@
 for angular application
 steps:
 
-npm install
-ng build --prod
+npm install   // will bring in all the modules
+ng build --prod   // will build and create the dist folder
 
 
 for spring boot application
